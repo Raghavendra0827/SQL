@@ -33,6 +33,4 @@ Benefits:
 
 By participating in this DBMS project and assignments, you will acquire a solid foundation in SQL and database management, setting you on a path to becoming a skilled data professional or database administrator.
 
-"STEPPING TOWARDS DATA SCIENCE BY PLAYING WITH LARGE DATA"# SQL
-
---Supported by Intellipaat Expert Trainers.
+"STEPPING TOWARDS DATA SCIENCE BY PLAYING WITH LARGE DATA"# SQL.
